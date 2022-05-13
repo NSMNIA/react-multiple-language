@@ -1,6 +1,5 @@
-import React from 'react'
-import ILanguages from '../../interfaces/ILanguages';
 import i18next from 'i18next';
+import ILanguages from '../../interfaces/ILanguages';
 
 type Props = {}
 
