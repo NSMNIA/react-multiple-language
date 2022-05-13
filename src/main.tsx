@@ -25,7 +25,7 @@ i18n
       caches: ['cookie']
     },
     backend: {
-      loadPath: "/react-multiple-language/locales/{{lng}}/translation.json",
+      loadPath: "https://raw.githubusercontent.com/NSMNIA/react-multiple-language/main/src/locales/{{lng}}/translation.json",
     }
   });
 
